@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is the effect of the <b> tag?",
+    "choice1": "It converts text into bold fonts",
+    "choice2": "It is used to write black colored font",
+    "choice3": "It is used to change the font size",
+    "choice4": "None of the above",
+    "answer": 1
+  },
+  {
+    "question": "Who is making web standards?",
+    "choice1": "The World Wide Web Consortium",
+    "choice2": "Google",
+    "choice3": "Mozilla",
+    "choice4": "Microsoft",
+    "answer": 1
+  }
+]
